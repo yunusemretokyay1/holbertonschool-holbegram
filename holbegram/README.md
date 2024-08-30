@@ -1,6 +1,6 @@
-# holbegram
+# Holbegram
 
-A new Flutter project.
+A mobile Flutter project, taught by Holberton
 
 ## Getting Started
 
